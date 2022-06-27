@@ -1,13 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import LogoPath from './assets/images/swagImage.jpg'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={LogoPath} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          You can now see <code>Me</code> rotating.
         </p>
         <a
           className="App-link"
