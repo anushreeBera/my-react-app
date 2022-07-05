@@ -3,6 +3,11 @@
 - Run `npm install` to get node_modules installed
 - Build
 
+#Handy Commands
+
+- Lists process at a port: lsof -i tcp:<port>
+- Kill process at a particular port: kill -9 <processid>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
