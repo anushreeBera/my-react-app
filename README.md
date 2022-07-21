@@ -1,9 +1,9 @@
-#Project Readme
+# Project Readme
 
 - Run `npm install` to get node_modules installed
 - Build
 
-#Handy Commands
+# Handy Commands
 
 - Lists process at a port: lsof -i tcp:<port>
 - Kill process at a particular port: kill -9 <processid>
