@@ -1,12 +1,13 @@
 # Project Readme
 
 - Run `npm install` to get node_modules installed
-- Build
+- Build `npm run build`
+- Watch mode `npm run watch`
 
 # Handy Commands
 
-- Lists process at a port: lsof -i tcp:<port>
-- Kill process at a particular port: kill -9 <processid>
+- Lists process at a port: `lsof -i tcp:<port>`
+- Kill process at a particular port: `kill -9 <processid>`
 
 # Getting Started with Create React App
 
